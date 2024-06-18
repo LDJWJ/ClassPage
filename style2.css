@@ -1,0 +1,14 @@
+.small_image {
+    width: 300px;
+    height: 300px;
+}
+
+p {
+    color:blueviolet;
+    font-family : Arial, sans-serif;
+}
+
+#p1 {
+    font-size:24px;
+    background-color:lightseagreen;
+}
