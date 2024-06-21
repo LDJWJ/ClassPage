@@ -2,6 +2,14 @@
 https://ldjwj.github.io/ClassPage/
 
 
+<div id="stopwatch">00:00:00.000</div>
+<button onclick="startStopwatch()">Start</button>
+<button onclick="stopStopwatch()">Stop</button>
+<button onclick="resetStopwatch()">Reset</button>
+
+<script>
+// JavaScript 코드
+</script>
 
 
 ### 수업
