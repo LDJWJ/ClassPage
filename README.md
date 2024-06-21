@@ -1,10 +1,13 @@
 # Class 수업
 https://ldjwj.github.io/ClassPage/
 
+<html>
 <div id="stopwatch">00:00:00</div>
 <button onclick="startStopwatch()">Start</button>
 <button onclick="stopStopwatch()">Stop</button>
-<button onclick="resetStopwatch()">Reset</button>
+<button onclick="resetStopwatch()">Reset</button>  
+</html>
+
 
 ### 수업
 ![프로젝트 수행](class_status01.png)
