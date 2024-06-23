@@ -10,7 +10,11 @@ https://ldjwj.github.io/ClassPage/
 ----
 ----
 ----
+----
+----
 ![쉬는 시간](class_status02.png)
+----
+----
 ----
 ----
 ----
